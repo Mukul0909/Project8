@@ -18,6 +18,6 @@ the fun part was to get to play with the linear gradient colors.
 
 ## Live link
 
-[Project Link](https://google.com "Netlify")
+[Project Link](https://helpful-genie-c3a1f1.netlify.app/ "Netlify")
 
 
